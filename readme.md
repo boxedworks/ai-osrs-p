@@ -1,5 +1,7 @@
 # Prompt usage:
-Type "!prompt " followed by your description to create a prompt. Include characters and locations by including their names. Only one location can be used per prompt.
+Type "!prompt " followed by your description to create a prompt. Include characters and locations by including their names. 
+
+Location names with a "/" mean you can use either name. Only one location can be used per prompt.
 
 ## Characters:
 - Sam
