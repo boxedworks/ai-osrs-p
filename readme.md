@@ -47,3 +47,4 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Wilderness
 
 Extra info:
+- If more than one location shares the same name, using that name will pick randomly between them.
