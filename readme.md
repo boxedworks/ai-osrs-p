@@ -12,36 +12,38 @@ Location names with a "/" mean you can use either name. Only one location can be
 
 ## Locations:
 - Agility Pyramid
+- Al Khalid
+- Al Kharid mine
 - Barbarian Village
-- Draynor Manor
 - Catherby bank / Catherby
 - Catherby beach / Catherby
-- White Wolf Mountain
+- Chaos Temple
+- Dark wizard circle
+- Draynor Manor
+- Draynor bank
+- Draynor market
+- Draynor willows
 - East Ardougne
+- Essence mine
 - Entrana
 - Falador
 - Falador park
-- Chaos Temple
 - Ferox Enclave
-- Wilderness
-- Quidamortem / Chambers of Xeric
-- Al Khalid
-- Al Kharid mine
+- Grand Exchange
+- Jolly Boar Inn
+- Karamja
 - Lumbridge cemetery
 - Lumbridge castle
 - Lumbridge gate
 - Lumbridge swamp
-- Draynor bank
-- Draynor market
-- Draynor willows
+- Morytania / Canifis / Haunted Wood
 - Port Sarim
+- Quidamortem / Chambers of Xeric
 - Rellekka
-- Essence mine
 - Slayer Tower
 - Tutorial Island
-- Grand Exchange
-- Jolly Boar Inn
 - Varrock gym
-- Dark wizard circle
+- White Wolf Mountain
+- Wilderness
 
 Extra info:
