@@ -1,5 +1,12 @@
+# Prompt rules
+All prompts submitted will be used. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a 50% chance to either be: 
+- Kept in the pool (can be randomly selected again)
+- Removed from the pool (archived)
+
 # Prompt usage:
-Type "!prompt " followed by your description to create a prompt. Include characters and locations by including their names. 
+Type "!prompt " followed by your description to create a prompt. Include characters and locations into a scene by including their names. 
+
+Including only one character will add a random selection of other characters into the scene. Including more than one character will only have those selected characters in the scene.
 
 Location names with a "/" mean you can use either name. Only one location can be used per prompt.
 
