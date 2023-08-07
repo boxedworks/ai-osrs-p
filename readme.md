@@ -8,7 +8,7 @@ Type "!prompt " followed by your description to create a prompt. Include charact
 
 Including only one character will add a random selection of other characters into the scene. Including more than one character will only have those selected characters in the scene.
 
-Location names with a "/" mean you can use either name. Only one location can be used per prompt.
+Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided. 
 
 ## Characters:
 - Sam
