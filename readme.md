@@ -1,7 +1,7 @@
 # Prompt rules
-All prompts submitted will be used. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a 50% chance to either be: 
-- Kept in the pool (can be randomly selected again)
-- Removed from the pool (archived)
+All prompts submitted will be used. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
+- (33%) Kept in the pool (can be randomly selected again)
+- (66%) Removed from the pool (archived)
 
 # Prompt usage:
 Type "!prompt " followed by your description to create a prompt. Include characters and locations into a scene by including their names. 
