@@ -13,7 +13,7 @@ Including only one character will add a random selection of other characters int
 - Gary
 - Bob
 - Larry
-- Man*
+- Man* (WIP)
 
 ## Locations:
 Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided. If more than one location shares the same name, using that name will pick randomly between them.
