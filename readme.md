@@ -17,6 +17,22 @@ Including only one character will add a random selection of other characters int
 "Hidden" characters will only appear if included in a prompt.
 - Man
 
+## Actions
+Apply actions to characters by using the syntax: Character(Action). Example: Bob(dancing). Actions with an asterisk can be done anywhere. Other actions can only be done in proper areas. For instance, you cannot runecraft if there is no runecrafting altar, cannot fish with no fishing spot, cannot sit without a chair, etc. If no actions are described, or the action is invalid, random actions are applied. Only one action per character.
+- Idle*
+- Sitting
+- Attacking
+- Woodcutting
+- Mining
+- Fishing
+- Farming
+- Thieving
+- Fletching*
+- Runecrafting
+- Convulsing*
+- Dancing*
+- Pushups*
+
 ## Locations
 Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided. If more than one location shares the same name, using that name will pick randomly between them.
 - Agility Pyramid
