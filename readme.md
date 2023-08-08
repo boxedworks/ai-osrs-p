@@ -6,11 +6,8 @@ All prompts submitted will be used. Submitted prompts are added to a pool and ar
 # Prompt usage:
 Type "!prompt " followed by your description to create a prompt. Include characters and locations into a scene by including their names. 
 
-Including only one character will add a random selection of other characters into the scene. Including more than one character will only have those selected characters in the scene. Characters with an asterisk next to them are "hidden" characters; they will only appear if included in a prompt.
-
-Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided. 
-
 ## Characters:
+Including only one character will add a random selection of other characters into the scene. Including more than one character will only have those selected characters in the scene. Characters with an asterisk next to them are "hidden" characters; they will only appear if included in a prompt.
 - Sam
 - Trish
 - Gary
@@ -19,6 +16,7 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Man*
 
 ## Locations:
+Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided. If more than one location shares the same name, using that name will pick randomly between them.
 - Agility Pyramid
 - Al Khalid
 - Al Kharid mine
@@ -55,4 +53,4 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Wilderness
 
 ## Extra info:
-- If more than one location shares the same name, using that name will pick randomly between them.
+Discord channel: https://discord.gg/WZJ2bq9wEF
