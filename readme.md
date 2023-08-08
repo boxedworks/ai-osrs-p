@@ -1,3 +1,5 @@
+Discord channel: https://discord.gg/WZJ2bq9wEF
+
 # Prompt rules
 All prompts submitted will be used. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
 - (33%) Kept in the pool (can be randomly selected again)
@@ -73,4 +75,3 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Wilderness
 
 ## Extra info:
-Discord channel: https://discord.gg/WZJ2bq9wEF
