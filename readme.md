@@ -2,9 +2,10 @@ Discord channel: https://discord.gg/WZJ2bq9wEF
 
 # Prompt rules
 All prompts submitted will eventually be used to generate a scene. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
-- (33%) Kept in the pool (can be randomly selected *again*)
+- (33%) Kept in the pool (can be randomly selected again)
 - (66%) Removed from the pool (archived)
 
+Prompts can have a max length of 250 characters. If a prompt is longer than the max length, it will be trimmed.
 # Prompt usage
 Type "!prompt " followed by your description to create a prompt. Read below to include specific characters, their actions, and location.
 
