@@ -1,5 +1,8 @@
 Discord channel: https://discord.gg/WZJ2bq9wEF
 
+# QUICK START
+**Just type into chat: !prompt Put anything you want here.**
+
 # Prompt rules
 All prompts submitted will eventually be used to generate a scene. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
 - (33%) Kept in the pool (can be randomly selected again)
