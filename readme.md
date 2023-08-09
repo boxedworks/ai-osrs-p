@@ -33,13 +33,13 @@ Include a location in a prompt to force the location of a generated scene.
 
 > Example: !prompt Bob does Law runs at Entrana.
 
-Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided. If more than one location shares the same name, using that name will pick randomly between them.
+Location names with a "/" mean you can use either name. Only one location can be used per prompt. If more than one is included, a random one is selected out of the locations provided.
 - Agility Pyramid
 - Al Khalid
 - Al Kharid mine
 - Barbarian Village
-- Catherby bank / Catherby
-- Catherby beach / Catherby
+- Catherby bank
+- Catherby beach
 - Chaos Temple
 - Dark wizard circle
 - Draynor Manor
@@ -52,22 +52,29 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Falador
 - Falador park
 - Ferox Enclave
+- Fight Caves
+- Gnome Stronghold Agility Course
 - Grand Exchange
 - Jolly Boar Inn
 - Karamja
+- Karamja Dungeon
+- Kraken Cove
 - Lumbridge cemetery
 - Lumbridge castle
 - Lumbridge gate
 - Lumbridge swamp
 - Morytania / Canifis / Haunted Wood
 - Port Sarim
+- Prifddinas
 - Quidamortem / Chambers of Xeric
 - Rellekka
 - Slayer Tower
+- Tree Gnome Stronghold
 - Tutorial Island
 - Varrock gym
 - White Wolf Mountain
 - Wilderness
+- Zulrah's Shrine
 
 # Advanced
 
