@@ -1,4 +1,5 @@
 Discord channel: https://discord.gg/WZJ2bq9wEF
+Donate: https://streamlabs.com/boxedworks1/tip
 
 # Prompt rules
 All prompts submitted will be used. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
