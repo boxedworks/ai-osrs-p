@@ -1,4 +1,5 @@
 Discord channel: https://discord.gg/WZJ2bq9wEF
+
 Donate: https://streamlabs.com/boxedworks1/tip
 
 # Prompt rules
