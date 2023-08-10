@@ -14,7 +14,7 @@ Type "!prompt " followed by your description to create a prompt. Read below to i
 
 > Example: !prompt What is the best skill in RuneScape?
 ## Characters
-Include one or multiple characters in a prompt to add them to the generated scene.
+Include one or multiple characters' names in a prompt to add them to the generated scene.
 
 > Example: !prompt Larry wants to show Gary his mace.
 
@@ -24,12 +24,13 @@ Including only one character will add a random selection of other characters int
 - Gary
 - Bob
 - Larry
+- Gobln <sub>(*Spelled wrong on purpose. This character is a WIP.)</sub>
 ### Hidden Characters
 "Hidden" characters will only appear if included in a prompt.
 - Man
 
 ## Locations
-Include a location in a prompt to force the location of a generated scene.
+Include a location's name in a prompt to force the location of a generated scene.
 
 > Example: !prompt Bob does Law runs at Entrana.
 
