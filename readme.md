@@ -67,6 +67,7 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Port Sarim
 - Prifddinas
 - Quidamortem / Chambers of Xeric
+- Random Event Mime
 - Rellekka
 - Slayer Tower
 - Tree Gnome Stronghold
