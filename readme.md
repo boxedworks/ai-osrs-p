@@ -24,7 +24,7 @@ Including only one character will add a random selection of other characters int
 - Gary
 - Bob
 - Larry
-- Gobln <sub>(*Spelled wrong on purpose. This character is a WIP.)</sub>
+- Gobbo <sub>*This character is a WIP.</sub>
 ### Hidden Characters
 "Hidden" characters will only appear if included in a prompt.
 - Man
