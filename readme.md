@@ -25,6 +25,7 @@ Including only one character will add a random selection of other characters int
 - Bob
 - Larry
 - Gobb <sub>*This character is a WIP.</sub>
+- Narrator <sub>*This character is a WIP.</sub>
 ### Hidden Characters
 "Hidden" characters will only appear if included in a prompt.
 - Man
