@@ -66,6 +66,7 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Lumbridge gate
 - Lumbridge swamp
 - Morytania / Canifis / Haunted Wood
+- Party room
 - Port Sarim
 - Prifddinas
 - Quidamortem / Chambers of Xeric
@@ -75,6 +76,7 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Tree Gnome Stronghold
 - Tutorial Island
 - Varrock gym
+- Varrock square
 - White Wolf Mountain
 - Wilderness
 - Zulrah's Shrine
@@ -90,6 +92,7 @@ Actions with an asterisk can be done anywhere. Other actions (specific actions) 
 
 **NOTE:** Most specific actions can only be done in a few areas, some only having one. Detailing which locations-specific actions can be done is a WIP.
 - Idle*
+- Walking*
 - Sitting
 - Attacking
 - Woodcutting
@@ -102,6 +105,8 @@ Actions with an asterisk can be done anywhere. Other actions (specific actions) 
 - Convulsing*
 - Dancing*
 - Pushups*
+- WalkingDrunk*
+- Drunk*
 
 ## Extra info:
 Donate: https://streamlabs.com/boxedworks1/tip
