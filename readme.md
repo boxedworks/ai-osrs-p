@@ -40,6 +40,8 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Al Khalid
 - Al Kharid mine
 - Barbarian Village
+- Barrows
+- Blast Furnace
 - Catherby bank
 - Catherby beach
 - Chaos Temple
@@ -73,12 +75,14 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Random Event Mime
 - Rellekka
 - Slayer Tower
+- Tempoross
 - Tree Gnome Stronghold
 - Tutorial Island
 - Varrock gym
 - Varrock square
 - White Wolf Mountain
 - Wilderness
+- Wintertodt
 - Zulrah's Shrine
 
 # Advanced
