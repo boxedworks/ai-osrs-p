@@ -74,6 +74,7 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Quidamortem / Chambers of Xeric
 - Random Event Mime
 - Rellekka
+- Seers Village
 - Slayer Tower
 - Tempoross
 - Tree Gnome Stronghold
