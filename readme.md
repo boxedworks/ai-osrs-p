@@ -69,6 +69,7 @@ Location names with a "/" mean you can use either name. Only one location can be
 - Lumbridge swamp
 - Morytania / Canifis / Haunted Wood
 - Party room
+- Pest Control
 - Port Sarim
 - Prifddinas
 - Quidamortem / Chambers of Xeric
