@@ -13,6 +13,11 @@ All prompts submitted will eventually be used to generate a scene. Submitted pro
 - (66%) Removed from the pool (archived)
 
 Prompts can have a max length of 250 characters. If a prompt is longer than the max length, it will be trimmed.
+
+If no prompts are in the queue, one of three things will happen to generate a scene:
+- The system will generate a prompt to use
+- A random archived prompt will be used
+- Messages from chat will be used as the prompt
 # Prompt usage
 Type "!" followed by your description to create a prompt. Read below to include specific characters, their actions, and location.
 > Example: !Everyone says: "wc lvl?"
