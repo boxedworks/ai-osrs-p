@@ -1,11 +1,26 @@
 Discord channel: https://discord.gg/WZJ2bq9wEF
 
+YouTube playlist: https://www.youtube.com/playlist?list=PLNKk8HkxpCFAwai9MupCq7N1T_gr74Nmv
+
+# Current Schedule
+All times are EST.
+- 02:00 - Stream goes live with stream countdown to start
+- 08:00 - Stream starts in Prompt mode
+- 11:00 - Stream switches to Live mode
+- 11:20 - Stream switches back to Prompt mode
+- To be decided - Stream end
+
+---
+
+# Live Chat mode
+Live Chat mode is new and is enabled periodically. When enabled, you can chat in real-time with the characters via the YouTube or Twitch chat. Every few seconds, a random new message from chat will be chosen to talk with. If you begin the message with **asterisk (*)**, it will be sent as an action instead of talking.
+
+# Prompt mode
+Prompt mode is the default mode. In Prompt mode, a sentence (or a "prompt") is fed into an AI to generate a scene that then plays out using pre-made characters.
+
 # QUICK START
 **Just type into chat:** !Put anything you want here.
 > Example: !What is the best skill in RuneScape?
-
-# Live Chat mode
-Live chat mode is enabled periodically. When enabled, you can talk in real-time with the characters via the chat. Every few seconds, a random new message from chat will be chosen to talk with. If you begin the message with **asterisk (*)**, it will be sent as an action instead of talking.
 
 # Prompt rules
 All prompts submitted will eventually be used to generate a scene. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
@@ -19,7 +34,7 @@ If no prompts are in the queue, one of three things will happen to generate a sc
 - A random archived prompt will be used
 - Messages from chat will be used as the prompt
 # Prompt usage
-Type "!" followed by your description to create a prompt. Read below to include specific characters, their actions, and location.
+Type "!" followed by your description to create a prompt. Read below to include specific characters, their actions, and locations.
 > Example: !Everyone says: "wc lvl?"
 
 ## Characters
