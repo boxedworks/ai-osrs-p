@@ -4,6 +4,9 @@ Discord channel: https://discord.gg/WZJ2bq9wEF
 **Just type into chat:** !Put anything you want here.
 > Example: !What is the best skill in RuneScape?
 
+# Live Chat mode
+Live chat mode is enabled periodically. When enabled, you can talk in real-time with the characters via the chat. Every few seconds, a random new message from chat will be chosen to talk with. If you begin the message with **asterisk (*)**, it will be sent as an action instead of talking.
+
 # Prompt rules
 All prompts submitted will eventually be used to generate a scene. Submitted prompts are added to a pool and are chosen at random. After being chosen, it has a chance to either be: 
 - (33%) Kept in the pool (can be randomly selected again)
