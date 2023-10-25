@@ -7,7 +7,7 @@ All times are EST.
 - 02:00 - Stream goes live with stream countdown to start
 - 08:00 - Stream starts in Prompt mode
 - 11:00 - Stream switches to Live mode
-- 11:20 - Stream switches back to Prompt mode
+- 11:30 - Stream switches back to Prompt mode
 - To be decided - Stream end
 
 ---
