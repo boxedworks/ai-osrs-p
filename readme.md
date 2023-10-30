@@ -4,7 +4,7 @@ YouTube playlist: https://www.youtube.com/playlist?list=PLNKk8HkxpCFAwai9MupCq7N
 
 # Current Schedule
 All times are EST.
-- 02:00 - Stream goes live with stream countdown to start
+- 07:50 - Stream goes live with stream countdown to start
 - 08:00 - Stream starts in Prompt mode
 - 11:00 - Stream switches to Live mode
 - 11:30 - Stream switches back to Prompt mode
