@@ -49,9 +49,6 @@ Including only one character will add a random selection of other characters int
 - Larry
 - Gobb <sub>*This character is a WIP.</sub>
 - Narrator <sub>*This character is a WIP.</sub>
-### Hidden Characters
-"Hidden" characters will only appear if included in a prompt.
-- Man
 
 ## Locations
 Include a location's name in a prompt to force the location of a generated scene.
