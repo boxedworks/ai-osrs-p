@@ -8,7 +8,7 @@ All times are EST.
 - 08:00 - Stream starts in Prompt mode
 - 11:00 - Stream switches to Live mode
 - 11:30 - Stream switches back to Prompt mode
-- To be decided - Stream end
+- 13:00 - Stream end
 
 ---
 
