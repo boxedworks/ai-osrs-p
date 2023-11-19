@@ -137,5 +137,11 @@ Actions with an asterisk can be done anywhere. Other actions (specific actions) 
 - WalkingDrunk*
 - Drunk*
 
+## Misc
+
+Use the caret symbol to have your message ignored. This can be useful in Live Chat mode.
+
+> Example: ^What did Bob just say?
+
 ## Extra info:
 Donate: https://streamlabs.com/boxedworks1/tip
