@@ -2,7 +2,7 @@ Subreddit: https://reddit.com/r/RuneScapeAi/
 
 Discord channel: https://discord.gg/WZJ2bq9wEF
 
-YouTube playlist: https://www.youtube.com/playlist?list=PLNKk8HkxpCFAwai9MupCq7N1T_gr74Nmv
+YouTube: https://www.youtube.com/channel/UC-vt9lj7L4nz6O1DNW3mYKA
 
 # Current Schedule
 All times are EST.
